@@ -1,4 +1,4 @@
-# liquor_purchase_app
+## Liquor Purchase App using Flutter
 
 A new Flutter project.
 
